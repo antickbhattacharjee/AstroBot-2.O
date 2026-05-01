@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AstroBot</string>
+    <style name="Theme.AstroBot" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0D0D2B</item>
+    </style>
+</resources>
