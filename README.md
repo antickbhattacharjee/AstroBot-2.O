@@ -20,9 +20,6 @@ AstroBot 2.O is an immersive Android application that combines computer vision w
 - **Permissions**: Accompanist Permissions API
 - **Image Loading**: Coil (if applicable)
 
-## 📸 Screenshots
-
-*(Add your screenshots here after deployment)*
 
 ## 🚀 Getting Started
 
